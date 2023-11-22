@@ -1,0 +1,161 @@
+.wrapper{
+width : 500 px;
+height: 200px;
+border:#1B4111 10px;
+
+
+}
+
+.header{
+	width: 100%;
+	height: 200px;
+	background-color:  #1B4111;
+}
+
+.header_text1{
+      font:15px "Modern Antiqua-Regular", serif;
+	  color: #FFFFFF;
+
+	 
+	 
+}
+.header_text2{
+      font: 20px "Inter-Extra-Bold", sans-serif;
+	  color: #318031;
+ 	  
+}
+.header_text3{
+      
+    color: #ffffff;
+  font:  10px "Inter-Medium", sans-serif;
+ 
+ 
+}
+.comsoc{
+	width:4%; 
+	height: 30px;
+	border-radius:360px;
+	
+}
+
+.CCIS_image{
+  width:5%;
+  height: 50px;
+
+}
+
+.search{
+	
+border-radius: 15px;
+  width: 200px;
+  height: 64px;
+
+float: right;  
+}
+
+.navigation1{
+height:25px;
+width:2.7%;
+ background-color: #808080;	
+ border-radius: 8px;
+ color: #318031;
+ float:right;
+ font:16px"Inter-Extra-Bold", sans-serif;
+ 
+}
+.navigation2{
+ color: #FFFFFF;
+ float:right;
+ font:15px"Inter-Extra-Bold", sans-serif;
+ 
+}
+.body{
+border:10px;
+height: 1450px;
+width:100%;
+background-color: #D9D9D9;
+}
+
+.text-wrapper-7{
+color:#565353;
+font:20px "Inter-Extra-Bold", sans-serif;	
+	
+}
+.text-wrapper-8{
+color:#565353;
+font:20px "Inter-Extra Bold", sans-serif;	
+	
+}
+.text-wrapper-9{
+	font:15px "Inter-Semi Bold", sans-serif;
+}
+.text-wrapper-10{
+	font:15px "Inter-Semi Bold", sans-serif;
+}
+.text-wrapper-11{
+	font:15px "Inter-Semi Bold", sans-serif;
+}
+.text-wrapper-12{
+	font:15px "Inter-Semi Bold", sans-serif;
+}
+
+
+
+.text-wrapper-14{
+   font:10px"Inter-Medium",sans-serif;
+}
+.text-wrapper-15{
+	font:10px "Inter-Medium", sans-serif;
+}
+.text-wrapper-16{
+	font:15px "basic-Regular", sans-serif;
+}
+.text-wrapper-17{
+	font:15px "basic-Regular", sans-serif;
+}
+.text-wrapper-18{
+	font: 13px"Inter-Medium", sans-serif;
+}
+.text-wrapper-19{
+	font: 13px"Inter-Medium", sans-serif;
+}
+.faculty_1{
+height:300px;
+width:25%;
+border-radius:13px;
+
+}
+.oath_4{
+height:300px;
+width:25%;
+border-radius:13px;
+
+}
+.fun_2{
+height:230px;
+width:240px;
+border-radius:30px;
+}
+.fun_3{
+height:230px;
+width:240px;
+border-radius:30px;
+}
+.footer{
+height:150px;
+width:100%;
+background-color: #122D0C;
+	
+}
+.footer-text1{
+font: 20px"Inter-Light-Italic", sans-serif;
+color:#FFFFFF;
+}
+.footer-text2{
+font: 20px"Inter-Light-Italic", sans-serif;
+color:#FFFFFF;
+}
+.footer-text3{
+font: 25px"Inter-Light-Italic", sans-serif;
+color: #FFFFFF;
+}
